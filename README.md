@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here
 
-![alt text](istep(1).jpg)
+![](istep(1).jpg)
 
 ## Getting Started
 
